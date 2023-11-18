@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAJgupta6386
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in front end development
 - 🌱 I’m currently learning react library
 - 💞️ I’m looking to collaborate on front end project 
 - 📫 How to reach me rajgupta6386461447@gmail.com
